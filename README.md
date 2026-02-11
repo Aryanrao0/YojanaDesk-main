@@ -3,7 +3,7 @@
 **YojanaDesk** is a full-stack, real-time **project and task management application** built to help teams plan, assign, and track work efficiently across agile sprints. With an intuitive interface and role-based access, it simplifies collaboration and boosts productivity for developers, managers, and teams.
 
 🌐 **Live Demo**: [Click here to try it out](https://project-management-tool-two-jet.vercel.app/)  
-📂 **Source Code**: [GitHub Repository](https://github.com/amulyabhardwaj007/YojanaDesk)
+📂 **Source Code**: [GitHub Repository](https://github.com/Aryanrao0/YojanaDesk-main)
 
 ---
 
